@@ -60,7 +60,7 @@ et:
       imports:
         data: CSV fail eksporditi teisest Mastodoni serverist
       invite_request:
-        text: See aitab meil üle vaadata Teie taotlust
+        text: "See server on loodud spetsiaalselt muusikutele. Selle serveri idee on võõrustada inimesi, kes tegelikult teevad muusikat (ja loodetavasti jagavad seda regulaarselt!), kuigi sa ei pea olema professionaal. Palun kinnitage, et see on nii (ideaalne oleks, kui teil oleks link või kaks, kus me saame teid kuulata)."
       sessions:
         otp: 'Sisesta kahesammulise autentimise kood loodud Teie mobiilirakenduse poolt või sisesta mõni taastuskood:'
       tag:
@@ -162,7 +162,7 @@ et:
       invite:
         comment: Kommenteerima
       invite_request:
-        text: Miks Te soovite liituda?
+        text: "Kas olete muusik?"
       notification_emails:
         digest: Saada ülevaatlike e-kirju
         favourite: Saada e-kiri, kui keegi lisab teie staatuse lemmikuks

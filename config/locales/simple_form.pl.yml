@@ -99,7 +99,7 @@ pl:
       imports:
         data: Plik CSV wyeksportowany z innego serwera Mastodona
       invite_request:
-        text: To pomoże nam w recenzji Twojej aplikacji
+        text: "Ten serwer został stworzony specjalnie dla muzyków. Ideą tego serwera jest goszczenie ludzi, którzy faktycznie tworzą muzykę (i miejmy nadzieję, że dzielą się nią regularnie!), chociaż nie musisz być profesjonalistą. Prosimy o potwierdzenie, że tak jest (byłoby idealnie, gdybyś miał link lub dwa, gdzie możemy Cię posłuchać)."
       ip_block:
         comment: Niewymagane. Pamiętaj, dlaczego dodałeś tę regułę.
         expires_in: Adresy IP to ograniczony zasób, czasami są współdzielone i często zmieniają właściciela. Z tego powodu blokady adresów IP nie są zalecane.
@@ -259,7 +259,7 @@ pl:
       invite:
         comment: Komentarz
       invite_request:
-        text: Czemu chcesz dołączyć?
+        text: "Jesteś muzykiem?"
       ip_block:
         comment: Skomentuj
         ip: Adres IP

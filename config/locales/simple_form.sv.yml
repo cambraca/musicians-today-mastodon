@@ -99,7 +99,7 @@ sv:
       imports:
         data: CSV-fil som exporterats från en annan Mastodon-server
       invite_request:
-        text: Detta kommer hjälpa oss att granska din ansökan
+        text: "Den här servern har skapats särskilt för musiker. Tanken med den här servern är att den ska vara värd för människor som faktiskt gör musik (och förhoppningsvis delar den regelbundet!), även om du inte behöver vara professionell. Vänligen bekräfta att så är fallet (det vore idealiskt om du har en länk eller två där vi kan lyssna på dig)."
       ip_block:
         comment: Valfritt. Kom ihåg varför du lade till denna regel.
         expires_in: IP-adresser är en ändlig resurs, de delas ibland och byter ofta händer. Av den här anledningen så rekommenderas inte IP-blockeringar på obestämd tid.
@@ -259,7 +259,7 @@ sv:
       invite:
         comment: Kommentar
       invite_request:
-        text: Varför vill du gå med?
+        text: "Är du musiker?"
       ip_block:
         comment: Kommentar
         ip: IP

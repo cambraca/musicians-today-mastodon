@@ -99,7 +99,7 @@ cs:
       imports:
         data: Soubor CSV exportovaný z jiného serveru Mastodon
       invite_request:
-        text: To nám pomůže posoudit vaši žádost
+        text: "Tento server byl vytvořen speciálně pro hudebníky. Myšlenkou tohoto serveru je hostit lidi, kteří skutečně dělají hudbu (a doufejme, že ji pravidelně sdílejí!), ačkoli nemusíte být profesionálové. Potvrďte prosím, že tomu tak je (ideální by bylo, kdybyste měli jeden nebo dva odkazy, kde si vás můžeme poslechnout)."
       ip_block:
         comment: Nepovinné. Poznamenejte si, proč jste přidali toto pravidlo.
         expires_in: IP adresy jsou omezeným zdrojem, občas jsou sdílené a často mění majitele. Proto se jejich časově neomezené blokování nedoporučuje.
@@ -259,7 +259,7 @@ cs:
       invite:
         comment: Komentář
       invite_request:
-        text: Proč se chcete připojit?
+        text: "Jste hudebník?"
       ip_block:
         comment: Komentář
         ip: IP

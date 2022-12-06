@@ -105,7 +105,7 @@ bg:
       invite:
         comment: Коментар
       invite_request:
-        text: Защо искате да се присъедините?
+        text: "Музикант ли сте?"
       ip_block:
         comment: Коментар
         ip: IP адрес

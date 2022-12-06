@@ -99,7 +99,7 @@ de:
       imports:
         data: CSV-Datei, die aus einem anderen Mastodon-Server exportiert wurde
       invite_request:
-        text: Dies wird uns helfen deine Anmeldungsanfrage besser zu verarbeiten
+        text: "Dieser Server wurde speziell für Musiker eingerichtet. Die Idee dieses Servers ist es, Leute zu beherbergen, die tatsächlich Musik machen (und sie hoffentlich regelmäßig teilen!), obwohl Sie kein Profi sein müssen. Bitte bestätigen Sie, dass dies der Fall ist (es wäre ideal, wenn Sie einen Link oder zwei haben, wo wir Sie anhören können)."
       ip_block:
         comment: Optional. Denke daran, warum du diese Regel hinzugefügt hast.
         expires_in: IP-Adressen sind eine endliche Ressource, sie werden manchmal geteilt und werden ab und zu ausgetauscht. Aus diesem Grund werden unbestimmte IP-Blöcke nicht empfohlen.
@@ -259,7 +259,7 @@ de:
       invite:
         comment: Kommentar
       invite_request:
-        text: Warum möchtest du beitreten?
+        text: "Sind Sie ein Musiker?"
       ip_block:
         comment: Kommentar
         ip: IP-Adresse

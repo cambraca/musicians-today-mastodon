@@ -99,7 +99,7 @@ sl:
       imports:
         data: Izvožena CSV datoteka iz drugega Mastodon vozlišča
       invite_request:
-        text: To nam bo pomagalo pregledati vašo prijavo
+        text: "Ta strežnik je bil ustvarjen posebej za glasbenike. Ideja tega strežnika je gostiti ljudi, ki dejansko ustvarjajo glasbo (in upam, da jo redno delijo!), čeprav vam ni treba biti profesionalec. Prosimo, potrdite, da je temu tako (idealno bi bilo, če bi imeli povezavo ali dve, kjer vas lahko poslušamo)."
       ip_block:
         comment: Neobvezno. Spomnite se, zakaj ste dodali to pravilo.
         expires_in: Naslovi IP so končno imejen vir, včasij si jih delimo in pogosto menjajo rabo. Zato nedoločeni bloki IP niso priporočeni.
@@ -259,7 +259,7 @@ sl:
       invite:
         comment: Komentar
       invite_request:
-        text: Zakaj se želite pridružiti?
+        text: "Ste glasbenik?"
       ip_block:
         comment: Komentar
         ip: IP

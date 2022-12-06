@@ -99,7 +99,7 @@ tr:
       imports:
         data: Diğer Mastodon sunucusundan dışarı aktardığınız CSV dosyası
       invite_request:
-        text: Bu, başvurunuzu gözden geçirmemize yardımcı olacaktır
+        text: "Bu sunucu özellikle müzisyenler için oluşturulmuştur. Bu sunucunun amacı, profesyonel olmanız gerekmese de, gerçekten müzik yapan (ve umarım düzenli olarak paylaşan!) kişileri barındırmaktır. Lütfen bunun böyle olduğunu onaylayın (sizi dinleyebileceğimiz bir veya iki bağlantınız varsa ideal olacaktır)."
       ip_block:
         comment: İsteğe bağlı. Bu kuralı neden eklediğinizi hatırlayın.
         expires_in: IP adresleri sınırlı bir kaynaktır, bazen paylaşılırlar ve sıklıkla el değiştirirler. Bu nedenle, belirsiz IP blokları önerilmez.
@@ -259,7 +259,7 @@ tr:
       invite:
         comment: Yorum
       invite_request:
-        text: Neden katılmak istiyorsun?
+        text: "Müzisyen misiniz?"
       ip_block:
         comment: Yorum
         ip: IP
