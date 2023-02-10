@@ -97,7 +97,7 @@ id:
       imports:
         data: File CSV yang diexpor dari server Mastodon lain
       invite_request:
-        text: Ini akan membantu kami meninjau aplikasi Anda
+        text: "Server ini dibuat khusus untuk para musisi. Gagasan untuk server ini adalah untuk menampung orang-orang yang benar-benar membuat musik (dan mudah-mudahan membagikannya secara teratur!), meskipun Anda tidak perlu menjadi seorang profesional. Harap konfirmasikan bahwa ini adalah kasusnya (akan ideal jika Anda memiliki satu atau dua tautan di mana kami dapat mendengarkan Anda)."
       ip_block:
         comment: Opsional. Harap ingat alasan Anda menambahkan peraturan ini.
         expires_in: Alamat IP terbatas, kadang-kadang dibagikan dan dipindah tangan. Oleh karena itu, blok IP tidak terbatas tidak disarankan.
@@ -257,7 +257,7 @@ id:
       invite:
         comment: Komentar
       invite_request:
-        text: Mengapa Anda ingin gabung?
+        text: "Apakah Anda seorang musisi?"
       ip_block:
         comment: Komentar
         ip: IP

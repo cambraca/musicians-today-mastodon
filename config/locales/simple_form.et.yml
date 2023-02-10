@@ -101,7 +101,7 @@ et:
       imports:
         data: CSV fail eksporditi teisest Mastodoni serverist
       invite_request:
-        text: See aitab meil sinu taotlust üle vaadata
+        text: "See server on loodud spetsiaalselt muusikutele. Selle serveri idee on võõrustada inimesi, kes tegelikult teevad muusikat (ja loodetavasti jagavad seda regulaarselt!), kuigi sa ei pea olema professionaal. Palun kinnitage, et see on nii (ideaalne oleks, kui teil oleks link või kaks, kus me saame teid kuulata)."
       ip_block:
         comment: Valikuline. Talletamaks reegli lisamise põhjust.
         expires_in: IP-aadressid on lõplik ressurss ja on tihtipeale ühiskasutuses või vahetub kasutaja. Sel põhjusel pole kestvad IP-piirangud soovituslikud.
@@ -263,15 +263,7 @@ et:
       invite:
         comment: Kommenteerima
       invite_request:
-        text: Miks soovid liituda?
-      ip_block:
-        comment: Kommentaar
-        ip: IP
-        severities:
-          no_access: Keela ligipääs
-          sign_up_block: Keela liitumised
-          sign_up_requires_approval: Piira liitumisi
-        severity: Reegel
+        text: Miks Te soovite liituda?
       notification_emails:
         appeal: Moderaatori otsus on vaidlustatud
         digest: Saada ülevaatlike e-kirju

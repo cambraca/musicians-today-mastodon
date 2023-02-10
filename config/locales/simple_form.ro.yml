@@ -60,7 +60,7 @@ ro:
       imports:
         data: Fișierul CSV exportat de la o altă instanță
       invite_request:
-        text: Acest lucru ne va ajuta să revizuim cererea dvs
+        text: "Acest server a fost creat special pentru muzicieni. Ideea acestui server este de a găzdui oameni care fac muzică (și sperăm că o împărtășesc în mod regulat), deși nu este necesar să fiți un profesionist. Vă rugăm să confirmați că acesta este cazul (ar fi ideal dacă ați avea un link sau două unde vă putem asculta)."
       sessions:
         otp: 'Introdu codul pentru dubla protecție generat de telefonul mobil sau unul din codurile de rezervă:'
       tag:
@@ -160,7 +160,7 @@ ro:
       invite:
         comment: Comentariu
       invite_request:
-        text: De ce vrei să te alături?
+        text: "Sunteți muzician?"
       notification_emails:
         digest: Trimite rezumate
         favourite: Trimite e-mail când cineva favorizează unul din statusurile tale

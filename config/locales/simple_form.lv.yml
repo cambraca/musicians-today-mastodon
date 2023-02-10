@@ -101,7 +101,7 @@ lv:
       imports:
         data: CSV fails, eksportēts no cita Mastodon servera
       invite_request:
-        text: Tas palīdzēs mums pārskatīt tavu lietojumprogrammu
+        text: "Šis serveris tika izveidots īpaši mūziķiem. Šī servera ideja ir uzņemt cilvēkus, kuri patiešām rada mūziku (un, cerams, regulāri ar to dalās!), lai gan jums nav jābūt profesionālim. Lūdzu, apstipriniet, ka tas tā ir (būtu ideāli, ja jums būtu saite vai divas saites, kur mēs varam jūs noklausīties)."
       ip_block:
         comment: Neobligāts. Atceries, kādēļ tu pievienoji šo nosacījumu.
         expires_in: IP adreses ir ierobežots resurss, tās dažreiz tiek koplietotas un bieži maina turētāju. Šī iemesla dēļ nedefinēti IP bloki nav ieteicami.
@@ -263,7 +263,7 @@ lv:
       invite:
         comment: Komentēt
       invite_request:
-        text: Kāpēc tu vēlies pievienoties?
+        text: "Vai esat mūziķis?"
       ip_block:
         comment: Komentēt
         ip: IP

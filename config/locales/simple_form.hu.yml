@@ -101,7 +101,7 @@ hu:
       imports:
         data: Egy másik Mastodon kiszolgálóról exportált CSV-fájl
       invite_request:
-        text: Ez segít nekünk átnézni a jelentkezésedet
+        text: "Ez a szerver kifejezetten zenészek számára készült. A szerver lényege, hogy olyan embereket fogadjon, akik valóban zenélnek (és remélhetőleg rendszeresen megosztják a zenét!), bár nem kell profinak lenned. Kérjük, erősítsd meg, hogy ez így van (ideális lenne, ha lenne egy-két linked, ahol meghallgathatunk)."
       ip_block:
         comment: Nem kötelező. Emlékeztető, hogy miért is vetted fel ezt a szabályt.
         expires_in: Az IP címek korlátos erőforrások, ezért néha meg vannak osztva és gyakran gazdát is cserélnek. Ezért a korlátlan IP tiltások használatát nem javasoljuk.
@@ -263,7 +263,7 @@ hu:
       invite:
         comment: Hozzászólás
       invite_request:
-        text: Miért akarsz csatlakozni?
+        text: "Ön zenész?"
       ip_block:
         comment: Megjegyzés
         ip: IP

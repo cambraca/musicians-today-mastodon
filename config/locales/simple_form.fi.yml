@@ -99,7 +99,7 @@ fi:
       imports:
         data: Toisesta Mastodon-instanssista tuotu CSV-tiedosto
       invite_request:
-        text: Tämä auttaa meitä arvioimaan hakemustasi
+        text: "Tämä palvelin on luotu erityisesti muusikoille. Tämän palvelimen ideana on isännöidä ihmisiä, jotka todella tekevät musiikkia (ja toivottavasti jakavat sitä säännöllisesti!), vaikka sinun ei tarvitse olla ammattilainen. Vahvista, että näin on (olisi ihanteellista, jos sinulla olisi linkki tai kaksi, josta voimme kuunnella sinua)."
       ip_block:
         comment: Valinnainen. Muista miksi lisäsit tämän säännön.
         expires_in: IP-osoitteet ovat rajallinen resurssi, joskus niitä jaetaan ja vaihtavat usein omistajaa. Tästä syystä epämääräisiä IP-lohkoja ei suositella.
@@ -261,7 +261,7 @@ fi:
       invite:
         comment: Kommentoi
       invite_request:
-        text: Miksi haluat liittyä?
+        text: "Oletko muusikko?"
       ip_block:
         comment: Kommentti
         ip: IP

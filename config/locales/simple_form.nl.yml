@@ -101,7 +101,7 @@ nl:
       imports:
         data: CSV-bestand dat op een andere Mastodonserver werd geëxporteerd
       invite_request:
-        text: Dit helpt ons om jouw aanvraag te beoordelen
+        text: "Deze server is speciaal gemaakt voor muzikanten. Het idee voor deze server is om mensen te hosten die daadwerkelijk muziek maken (en het hopelijk regelmatig delen!), hoewel je geen professional hoeft te zijn. Gelieve te bevestigen dat dit het geval is (het zou ideaal zijn als je een link of twee hebt waar we je kunnen beluisteren)."
       ip_block:
         comment: Optioneel. Vergeet niet te onthouden waarom je deze regel hebt toegevoegd.
         expires_in: Het aantal IP-adressen zijn beperkt. Ze worden soms gedeeld en wisselen vaak van eigenaar. Om deze reden worden onbeperkte IP-blokkades niet aanbevolen.
@@ -263,7 +263,7 @@ nl:
       invite:
         comment: Opmerking
       invite_request:
-        text: Waarom wil je je hier registreren?
+        text: "Ben je muzikant?"
       ip_block:
         comment: Opmerking
         ip: IP

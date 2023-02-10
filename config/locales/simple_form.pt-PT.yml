@@ -101,7 +101,7 @@ pt-PT:
       imports:
         data: Ficheiro CSV exportado doutra instância do Mastodon
       invite_request:
-        text: Isto vai ajudar-nos a analisar o seu pedido
+        text: "Este servidor foi criado especificamente para músicos. A ideia para este servidor é hospedar pessoas que realmente façam música (e esperemos que a partilhem regularmente!), embora não seja necessário ser um profissional. Por favor, confirme que este é o caso (seria ideal se tivesse um ou dois links onde o pudéssemos ouvir)."
       ip_block:
         comment: Opcional. Relembre-se por que adicionou esta regra.
         expires_in: Endereços IP são um recurso limitado, algumas vezes são compartilhados e muitas vezes mudam de mãos. Por essa razão, bloqueios de IP indefinidos não são recomendados.
@@ -263,7 +263,7 @@ pt-PT:
       invite:
         comment: Comentário
       invite_request:
-        text: Porque se quer juntar a nós?
+        text: "É músico?"
       ip_block:
         comment: Comentário
         ip: IP
