@@ -10,7 +10,7 @@ loadPolyfills().then(async () => {
   // Very hacky code for changing the mascot every once in a while.
   async function changeMascot() {
     if (!window.mascots)
-      window.mascots = await (await fetch("https://musicians.today/mascots.json")).json();
+      window.mascots = await (await fetch('https://musicians.today/mascots.json')).json();
 
     const index = Math.floor(Math.random() * window.mascots.length);
     document.querySelector('.drawer__inner__mastodon img').setAttribute('src', window.mascots[index]);
