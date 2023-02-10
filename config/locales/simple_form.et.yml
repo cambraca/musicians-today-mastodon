@@ -263,7 +263,15 @@ et:
       invite:
         comment: Kommenteerima
       invite_request:
-        text: Miks Te soovite liituda?
+        text: "Kas olete muusik?"
+      ip_block:
+        comment: Kommentaar
+        ip: IP
+        severities:
+          no_access: Keela ligipääs
+          sign_up_block: Keela liitumised
+          sign_up_requires_approval: Piira liitumisi
+        severity: Reegel
       notification_emails:
         appeal: Moderaatori otsus on vaidlustatud
         digest: Saada ülevaatlike e-kirju
