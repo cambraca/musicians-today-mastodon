@@ -1,11 +1,9 @@
 [
-  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/bass.png",
-  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/drums.png",
-  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/conductor.png",
-  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/mic.png",
-  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/piano.png",
-  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/saxophone.png",
-  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/vibraphone.png",
-  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/violin.png",
-  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/harp.png"
+  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/birds_marimba.png",
+  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/capybara_charango.png",
+  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/hyena_bass.png",
+  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/kangaroo_didgeridoo.png",
+  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/mastodon_tuba.png",
+  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/otter_concertina.png",
+  "https://musicianstoday.s3.us-east-005.backblazeb2.com/mascots/red_panda_taiko_drum.png"
 ]
