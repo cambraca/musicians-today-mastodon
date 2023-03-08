@@ -103,7 +103,7 @@ en-GB:
       imports:
         data: CSV file exported from another Mastodon server
       invite_request:
-        text: This will help us review your application
+        text: "This server was created specifically for musicians. The idea for this server is to host people that actually make music (and hopefully shares it regularly!), although you don't need to be a professional. Please confirm that this is the case (it would be ideal if you have a link or two where we can listen to you)."
       ip_block:
         comment: Optional. Remember why you added this rule.
         expires_in: IP addresses are a finite resource, they are sometimes shared and often change hands. For this reason, indefinite IP blocks are not recommended.
@@ -267,7 +267,7 @@ en-GB:
       invite:
         comment: Comment
       invite_request:
-        text: Why do you want to join?
+        text: "Are you a musician?"
       ip_block:
         comment: Comment
         ip: IP
