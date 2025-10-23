@@ -638,7 +638,7 @@ nl:
         delete: Verwijderen
         placeholder: Beschrijf welke maatregelen zijn genomen of andere gerelateerde opmerkingen...
         title: Opmerkingen
-      notes_description_html: Bekijk en laat opmerkingen achter voor andere moderatoren en voor jouw toekomstige zelf
+      notes_description_html: Opmerkingen bekijken, en voor jezelf en andere moderatoren achterlaten
       processed_msg: 'Rapportage #%{id} succesvol afgehandeld'
       quick_actions_description_html: 'Neem een snelle maatregel of scroll naar beneden om de gerapporteerde inhoud te bekijken:'
       remote_user_placeholder: de externe gebruiker van %{instance}
@@ -1584,7 +1584,7 @@ nl:
       too_many_options: kan niet meer dan %{max} items bevatten
   preferences:
     other: Overig
-    posting_defaults: Standaardinstellingen voor berichten
+    posting_defaults: Instellingen voor berichten
     public_timelines: Openbare tijdlijnen
   privacy:
     hint_html: "<strong>Hoe wil je dat jouw profiel en berichten kunnen worden gevonden?</strong> Een verscheidenheid aan functies in Mastodon kunnen je helpen om een groter publiek te bereiken als ze zijn ingeschakeld. Neem rustig de tijd om deze instellingen te bekijken, om er zo zeker van te zijn dat ze aan jouw wensen voldoen."
